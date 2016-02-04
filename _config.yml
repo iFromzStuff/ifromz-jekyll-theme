@@ -12,7 +12,7 @@ url: "https://ifromzstuff.github.io/ifromz-jekyll-theme"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: / #ifromz-jekyll-theme
+baseurl: /ifromz-jekyll-theme
 
 # Google tracking id to track your visitors
 
@@ -22,7 +22,7 @@ google-tracking-id: "UA-71824673-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 #############
 # HTML Head #
